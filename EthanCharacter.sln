@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EthanCharacter.Plugins", "EthanCharacter.Plugins.csproj", "{F263A804-629D-E65D-0E80-5C760E42B7BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EthanCharacter.Editor.Plugins", "EthanCharacter.Editor.Plugins.csproj", "{812693AC-F7C6-DEAF-A78D-CF18355D8ED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F263A804-629D-E65D-0E80-5C760E42B7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F263A804-629D-E65D-0E80-5C760E42B7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F263A804-629D-E65D-0E80-5C760E42B7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F263A804-629D-E65D-0E80-5C760E42B7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812693AC-F7C6-DEAF-A78D-CF18355D8ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812693AC-F7C6-DEAF-A78D-CF18355D8ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812693AC-F7C6-DEAF-A78D-CF18355D8ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812693AC-F7C6-DEAF-A78D-CF18355D8ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
